@@ -12,7 +12,7 @@ setup(name='Cat_Library',
     version='1.0',
     author='TrainHeartnetCat',
     description='Cat_Library is a training project for oldcat.',
-    url='',
+    url="https://github.com/TrainHeartnetCat/Cat_Library",
     package_dir=package_dir,
     packages=packages,
 )
